@@ -28,11 +28,11 @@ Database connection handled through db.php
 
 Homepage served via index.php
 
-Includes folder for reusable components
+Reusable components inside the includes/ folder
 
-SQL folder containing database structure
+Database schema stored in the sql/ folder
 
-Basic CSS styling
+Basic styling using CSS
 
 📂 Project Structure
 Code
@@ -58,7 +58,7 @@ Import it into your MySQL server before running the project.
 1. Clone the repository
 bash
 git clone https://github.com/mdanwarulkabir/phpbasic.git
-2. Configure database
+2. Configure the database
 Create a MySQL database
 
 Import the SQL file from /sql
@@ -71,13 +71,14 @@ Place the project folder inside your local server directory (e.g., htdocs for XA
 Code
 http://localhost/phpbasic/
 🛠️ Technologies Used
-PHP (Core backend logic)
+PHP
 
-MySQL (Database)
+MySQL
 
-HTML/CSS (Frontend)
+HTML
 
-Hack (Minor portions as detected by GitHub)
+CSS
 
 👤 Author
-Md Anwarul Kabir
+Md Anwarul Kabir  
+GitHub: https://github.com/mdanwarulkabir
